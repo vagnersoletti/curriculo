@@ -52,8 +52,7 @@ Atuar na área de tecnologia da informação aplicando os conhecimentos adquirid
     - [Portal Escola do Legislativo - SC](http://escola.alesc.sc.gov.br);
 
 ##Escolaridade
-Ensino Superior em Curso - 2006 à 2010
- -**Sistemas de Informação** - Entidade: UNIPAR (Universidade Paranaense). **Situação** - Completo.
+Ensino Superior - 2006 à 2010 - **Sistemas de Informação** - Entidade: UNIPAR (Universidade Paranaense). **Situação Completo**.
 
 ##Experiência Profissional
 
