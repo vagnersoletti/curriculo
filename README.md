@@ -54,18 +54,18 @@ Atuar na área de tecnologia da informação aplicando os conhecimentos adquirid
 ##Escolaridade
 Ensino Superior em Curso - 2006 à 2010
 **Sistemas de Informação** - Entidade: UNIPAR (Universidade Paranaense)
-**Situação** - Completo
+**Situação** - Completo.
 
 ##Experiência Profissional
 
 **VH Soluções em Software** - De Junho de 2014 até o momento
-Cargo: Programador PHP Pleno
+Cargo: Programador PHP Pleno.
 
 **Freelancer** - Janeiro de 2009 à Maio de 2014 (HomeOffice)
-Cargo: Programador PHP (Desenvolvimento/Manutenção portais institucionais)
+Cargo: Programador PHP (Desenvolvimento/Manutenção portais institucionais).
 
 **Secretaria de Estado de Educação SC** - 2009 à 2014
-Cargo: Professor Ensino Médio Profissionalizante
+Cargo: Professor Ensino Médio Profissionalizante.
 
 ##Cursos de Aperfeiçoamento
  - Symfony2. (School of Net - 60 hrs);
