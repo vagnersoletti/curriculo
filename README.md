@@ -1,9 +1,9 @@
 #Vagner Luis Soletti
 
-Brasileiro, 28 anos, casado e sem filhos
-Avenida Atílio Pedro Pagani, 231 - Apto 806
-Palhoça / SC
-(48) 9816 - 9350
+Brasileiro, 28 anos, casado e com filho
+Rua Aderbal Ramos da Silva, 23
+São Lourenço do Oeste / SC
+(49) 98821 - 7671
 [vagnersoletti@gmail.com](vagnersoletti@gmail.com)
 
 
@@ -19,9 +19,8 @@ Palhoça / SC
 ##Conhecimento técnico
     - PHP
     - Laravel 5
-    - Symfony2 (Intermediário)
     - Drupal 7
-    - Wordpress (Intermediário)
+    - Wordpress (Avançado)
     - MySql
     - MVC
     - Restfull
@@ -29,12 +28,12 @@ Palhoça / SC
     - Javascript
     - jQuery
     - Ajax
-    - Angular (Intermediário)
+    - Node (Intermediário)
+    - Vue (Intermediário)
     - HTML5
     - CSS3
     - SASS e LESS (Intermediário)
     - Bootstrap
-    - Material Design Google
     - Git
     - TortoiseSVN
     - Jira
@@ -56,7 +55,9 @@ Ensino Superior - 2006 à 2010 - **Sistemas de Informação** - Entidade: UNIPAR
 
 ##Experiência Profissional
 
-- **VH Soluções em Software** - De Junho de 2014 até o momento. Cargo: Programador PHP Pleno.
+- **InCuca Soluções Tecnológicas** - De Julho de 2016 até o momento. Cargo: Software Engineer (Remoto).
+
+- **VH Soluções em Software** - De Junho de 2014 até Junho de 2016. Cargo: Programador PHP Pleno.
 
 - **Freelancer** - Janeiro de 2009 à Maio de 2014 (HomeOffice). Cargo: Programador PHP (Desenvolvimento/Manutenção portais institucionais).
 
